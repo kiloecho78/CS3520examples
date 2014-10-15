@@ -1,0 +1,4 @@
+#NetBeans specific build and local files
+nbproject/private/
+build/
+/CS3520ex/nbproject/private/
